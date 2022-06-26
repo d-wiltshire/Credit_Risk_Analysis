@@ -20,6 +20,7 @@ The following are the the balanced accuracy scores and the precision and recall 
   * Recall (average): .60
 
 ![17_randomoversampler](https://user-images.githubusercontent.com/100863488/175825646-37f71249-e6c9-463b-9270-7e47e3fec0fb.png)
+![Untitled](https://user-images.githubusercontent.com/100863488/175826044-5309c0b9-ec1f-4d0d-b400-5e7fdb90fcf4.png)
 
 
 
@@ -71,7 +72,7 @@ The following are the the balanced accuracy scores and the precision and recall 
 
 ## Summary
 
-Of the learning models tested, the classifiers (Balanced Random Forest Classifier and Easy Ensemble AdaBoost Classifier) far outperformed the other models, with balanced accuracy scores of .87 and .94, respectively. The ClusterCentroids undersampling model had the lowest balanced accuracy score, at .54, which suggests that oversampling was more effective than undersampling, with this dataset.
+Of the learning models tested, the classifiers (Balanced Random Forest Classifier and Easy Ensemble AdaBoost Classifier) far outperformed the other models, with balanced accuracy scores of .79 and .94, respectively. The ClusterCentroids undersampling model had the lowest balanced accuracy score, at .54, which suggests that oversampling was more effective than undersampling, with this dataset.
 
 All models had an average precision of .99. Since the Easy Ensemble AdaBoost Classifier outscored all other models in balanced accuracy (.94) and recall (.95), I would recommend this tool for the future for similar datasets.
 
