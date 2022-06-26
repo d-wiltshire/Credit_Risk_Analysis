@@ -30,7 +30,7 @@ The following are the the balanced accuracy scores and the precision and recall 
   * Recall (average): .69
 
 ![17_smote](https://user-images.githubusercontent.com/100863488/175825650-40309fb8-07e4-4df3-aaf8-a90109bb25ff.png)
-
+![Untitled](https://user-images.githubusercontent.com/100863488/175826044-5309c0b9-ec1f-4d0d-b400-5e7fdb90fcf4.png)
 
 
 * **ClusterCentroids**
@@ -39,7 +39,7 @@ The following are the the balanced accuracy scores and the precision and recall 
   * Recall (average): .40
 
 ![17_ccentroids](https://user-images.githubusercontent.com/100863488/175825656-51ef3edd-08ba-47e9-aa49-f23ab489e8a7.png)
-
+![Untitled](https://user-images.githubusercontent.com/100863488/175826044-5309c0b9-ec1f-4d0d-b400-5e7fdb90fcf4.png)
 
 
 * **Combination Over- and Undersampling with SMOTEENN**
@@ -48,7 +48,7 @@ The following are the the balanced accuracy scores and the precision and recall 
   * Recall (average): .57
 
 ![17_4smoteen](https://user-images.githubusercontent.com/100863488/175825662-8ae279ba-933d-46f6-b467-4346616e3767.png)
-
+![Untitled](https://user-images.githubusercontent.com/100863488/175826044-5309c0b9-ec1f-4d0d-b400-5e7fdb90fcf4.png)
 
 
 * **Balanced Random Forest Classifier**
@@ -57,7 +57,7 @@ The following are the the balanced accuracy scores and the precision and recall 
   * Recall (average): .87
 
 ![17_brfc](https://user-images.githubusercontent.com/100863488/175825675-08168264-02b6-42b7-849e-5520a937ab2d.png)
-
+![Untitled](https://user-images.githubusercontent.com/100863488/175826044-5309c0b9-ec1f-4d0d-b400-5e7fdb90fcf4.png)
 
 
 * **Easy Ensemble AdaBoost Classifier**
@@ -66,7 +66,7 @@ The following are the the balanced accuracy scores and the precision and recall 
   * Recall (average): .95
 
 ![17_easyensemble](https://user-images.githubusercontent.com/100863488/175825683-543600a9-35f0-41dd-8f16-60850ff6eff9.png)
-
+![Untitled](https://user-images.githubusercontent.com/100863488/175826044-5309c0b9-ec1f-4d0d-b400-5e7fdb90fcf4.png)
 
 
 
