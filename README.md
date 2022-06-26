@@ -14,29 +14,29 @@ This exercise involved employing different techniques to train and evaluate mach
 Results: Using bulleted lists, describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
 
 * RandomOverSampler
-  * Balanced Accuracy Score:
-  * Precision:
-  * Recall: 
-* SMOTE
-  * Balanced Accuracy Score:
-  * Precision:
-  * Recall: 
+  * Balanced Accuracy Score: .64
+  * Precision (average): .99
+  * Recall (average): .60
+* SMOTE Oversampling
+  * Balanced Accuracy Score: .66
+  * Precision (average): .99
+  * Recall (average): .69
 * ClusterCentroids
+  * Balanced Accuracy Score: .54
+  * Precision (average): .99
+  * Recall (average): .40
+* Combination Over- and Undersampling with SMOTEENN
   * Balanced Accuracy Score:
-  * Precision:
-  * Recall: 
-* fourth
-  * Balanced Accuracy Score:
-  * Precision:
-  * Recall: 
+  * Precision (average):
+  * Recall (average): 
 * fifth
   * Balanced Accuracy Score:
-  * Precision:
-  * Recall: 
+  * Precision (average):
+  * Recall (average): 
 * sixth
   * Balanced Accuracy Score:
-  * Precision:
-  * Recall: 
+  * Precision (average):
+  * Recall (average): 
 
 ## Summary
 
