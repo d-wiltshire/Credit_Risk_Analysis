@@ -26,17 +26,17 @@ Results: Using bulleted lists, describe the balanced accuracy scores and the pre
   * Precision (average): .99
   * Recall (average): .40
 * Combination Over- and Undersampling with SMOTEENN
-  * Balanced Accuracy Score:
-  * Precision (average):
-  * Recall (average): 
-* fifth
-  * Balanced Accuracy Score:
-  * Precision (average):
-  * Recall (average): 
-* sixth
-  * Balanced Accuracy Score:
-  * Precision (average):
-  * Recall (average): 
+  * Balanced Accuracy Score: .64
+  * Precision (average): .99
+  * Recall (average): .57
+* Balanced Random Forest Classifier
+  * Balanced Accuracy Score: .79
+  * Precision (average): .99
+  * Recall (average): .87
+* Easy Ensemble Adaboost Classifier
+  * Balanced Accuracy Score: .94
+  * Precision (average): .99
+  * Recall (average): .95
 
 ## Summary
 
